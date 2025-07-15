@@ -8,7 +8,7 @@ I'm ZulfadarIA — an Android Developer passionate about building impactful apps
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZulfadarIA&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZulfadarIA&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZulfadarIA&theme=radical)](https://git.io/streak-stats)
 
 ---
 
