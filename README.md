@@ -14,4 +14,4 @@ I'm ZulfadarIA — an Android Developer passionate about building impactful apps
 
 **📫 How to reach me:**  
 - ✉️ Email: *zulfadaralkaf@gmail.com*
-- 💼 LinkedIn: [Zulfadar Indaka Alkaf]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/zulfadar-indaka-alkaf/))
+- 💼 LinkedI: ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/zulfadar-indaka-alkaf/))
